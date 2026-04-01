@@ -2,7 +2,6 @@
 
 Sou **Desenvolvedor Full Stack** com formação em **Ciência da Computação** pela **Universidade Federal de Pelotas (UFPel)**.  
 Atuo no desenvolvimento de aplicações **web, desktop e mobile**, com foco em **C#** e **ASP.NET Core (Razor Pages e MVC)**.  
-Tenho interesse em **engenharia de software, automação, análise de dados** e **observabilidade de sistemas**.
 
 ---
 
@@ -13,13 +12,12 @@ Tenho interesse em **engenharia de software, automação, análise de dados** e 
 - **Criação e integração de APIs**
 
 ### 🔹 Front-End
-- **HTML5**, **CSS3**, **JavaScript**, **TypeScript**
-- **jQuery**, **React.js**
+- **HTML5**, **CSS3**, **JavaScript**
+- **jQuery**
 
 ### 🔹 Bancos de Dados
 - **Oracle SQL\***
 - **MySQL**
-- Criação de **consultas**, **procedures** e **otimização de desempenho**
 
 ### 🔹 Infraestrutura e Observabilidade
 - **ELK Stack (Elasticsearch, Logstash e Kibana)** — implementação e gerenciamento de servidores dedicados
@@ -33,7 +31,7 @@ Tenho interesse em **engenharia de software, automação, análise de dados** e 
 📍 *Universidade Federal de Pelotas (UFPel) — Pelotas, RS, Brasil*  
 🗓️ *2017 – 2024*  
 
-> O curso proporciona uma sólida base teórica e prática em computação, com foco em **projetar, desenvolver e gerenciar sistemas de software e soluções tecnológicas**.  
+> O curso proporciona uma sólida base teórica e prática em computação.
 > Abrange áreas como **programação, inteligência artificial, banco de dados, engenharia de software, redes e sistemas operacionais**.
 
 ---
@@ -49,17 +47,6 @@ Tenho interesse em **engenharia de software, automação, análise de dados** e 
 - Criação e integração de **APIs**  
 - Atuação com **Oracle SQL\*** e **MySQL**  
 - Responsável pela **implementação e gerenciamento de servidores ELK Stack**
-
----
-
-### 🧪 **QA Lead** — *Noticiato*  
-📍 Pelotas, RS, Brasil  
-🗓️ *Setembro 2024 – Janeiro 2025*  
-
-- Liderança da equipe de QA  
-- Criação e execução de **cenários de teste manuais e automatizados**  
-- Implementação de **processos de qualidade de software**  
-- Identificação e relato de **oportunidades de melhoria contínua**
 
 ---
 
